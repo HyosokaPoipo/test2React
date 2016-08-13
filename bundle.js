@@ -64,10 +64,11 @@
 	    return _react2.default.createElement(
 	      'div',
 	      { className: 'commentBox' },
-	      'Hello, world! I am a CommentBox.'
+	      'Hellow Hisoka.... :) this is using watch...:D'
 	    );
 	  }
 	});
+
 	_reactDom2.default.render(_react2.default.createElement(CommentBox, null), document.getElementById('content'));
 
 /***/ },
