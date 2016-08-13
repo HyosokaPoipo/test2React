@@ -68,7 +68,7 @@
 	    );
 	  }
 	});
-	ReactDOM.render(_react2.default.createElement(CommentBox, null), document.getElementById('content'));
+	_reactDom2.default.render(_react2.default.createElement(CommentBox, null), document.getElementById('content'));
 
 /***/ },
 /* 1 */
