@@ -10,5 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "react-dom": "^15.3.0"
+  },
+  "dependencies": {
+    "babel": "^6.5.2"
   }
 }
